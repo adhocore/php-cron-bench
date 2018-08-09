@@ -8,6 +8,7 @@ class MtdowlingCronBench extends Common
 {
     /**
      * @Revs(500)
+     * @Iterations(2)
      */
     public function benchDueCheck()
     {
