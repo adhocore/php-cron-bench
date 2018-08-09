@@ -36,8 +36,6 @@
         }
     },
     "scripts": {
-        "post-root-package-install": [
-        ],
-        "test": "vendor/bin/phpunit --coverage-text --coverage-clover coverage.xml"
+        "bench": "vendor/bin/phpbench run src --report='generator: \"table\", cols: [\"benchmark\", \"subject\", \"revs\", \"its\", \"mem_peak\", \"best\", \"mean\", \"mode\", \"diff\", \"mean\"]'"
     }
 }

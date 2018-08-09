@@ -13,6 +13,7 @@ composer install -o
 ```
 
 ## Usage
+
 ```sh
-vendor/bin/phpbench run src --report aggregate
+composer bench
 ```
