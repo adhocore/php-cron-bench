@@ -1,0 +1,7 @@
+{
+  "bootstrap": "tests/bootstrap.php",
+  "php_config": {
+    "zend.assertions": 1,
+    "assert.exception": 1
+  }
+}
