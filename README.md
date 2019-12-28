@@ -23,9 +23,9 @@ composer bench
 
 #### Local Machine
 
-![Local machine](https://imgur.com/HN16Ics.png "Local machine")
+![Local machine](https://imgur.com/eT1BrjN.png "Local machine")
 
-[adhocore/php-cron-expr](https://github.com/adhocore/php-cron-expr) is 9.64x faster in local machine (XPS9360/i7/16/512/Win10/WSL).
+[adhocore/php-cron-expr](https://github.com/adhocore/php-cron-expr) is 12.92x faster in local machine (XPS9360/i7/16/512/Win10/WSL).
 
 #### Travis
 
