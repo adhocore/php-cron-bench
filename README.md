@@ -23,12 +23,12 @@ composer bench
 
 #### Local Machine
 
-![Local machine](https://imgur.com/eT1BrjN.png "Local machine")
+![Local machine](https://imgur.com/kMUOBI0.png "Local machine")
 
 [adhocore/php-cron-expr](https://github.com/adhocore/php-cron-expr) is 12.92x faster in local machine (XPS9360/i7/16/512/Win10/WSL).
 
 #### Travis
 
-![Travis](https://imgur.com/SpdASFQ.png "Travis")
+![Travis](https://imgur.com/rSxEUnA.png "Travis")
 
-[adhocore/php-cron-expr](https://github.com/adhocore/php-cron-expr) is 10.57x [faster](https://travis-ci.com/adhocore/php-cron-bench/builds/81384785) in Travis.
+[adhocore/php-cron-expr](https://github.com/adhocore/php-cron-expr) is 7.54x [faster](https://travis-ci.com/adhocore/php-cron-bench/builds/142502073) in Travis.
